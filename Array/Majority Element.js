@@ -30,3 +30,5 @@ console.log(result2); // Output: 2
 
 //Time Complexity:= O(n)
 //Space COmplexity:= O(1)
+
+
